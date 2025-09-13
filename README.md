@@ -11,3 +11,12 @@ Feature Analysis: We will identify and analyze the most significant factors that
 Project Motivation:
 The motivation for our project comes from the critical impact that loan approval decisions have on both financial institutions and individuals. On one hand, banks and lenders must carefully assess applications to minimize financial risk; on the other, applicants rely on fair, transparent, and timely decisions in order to gain access to needed financial support.
 Manual evaluation of loan applications is often time‑consuming, inconsistent, and prone to human error or bias. Different evaluators may interpret similar applicant data differently, leading to discrepancies and potential unfairness. Moreover, delays in decision-making hurt customer satisfaction and may reduce trust in lending systems.
+
+Group Names:
+Farah AlHamed-445200281
+Sadeem Al Sultan-445201370
+Lana Almulhem-445200330
+Aisha Alonizy-445200424
+
+
+
