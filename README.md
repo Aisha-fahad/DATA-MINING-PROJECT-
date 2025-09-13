@@ -1,6 +1,6 @@
 # DATA-MINING-PROJECT-
 Project Description:
-Our project is designed as a classification task, with the primary objective of predicting loan approval outcomes. Using applicant-related attributes such as income, credit history, requested loan amount, marital status, and employment details, our model aims to determine whether a loan application should be classified as Approved or Not Approved.
+Our project is designed as a classification task, with the primary objective of predicting loan approval outcomes. Using applicant-related attributes such as income, credit history, requested loan amount, marital status, and employment details, our model aims to determine whether a loan application should be classified as Approved or Rejected.
 
 Objectives:
 Classification Task: Our goal is to develop a predictive model that categorizes loan applications into either “Approved” or “Not Approved.”
