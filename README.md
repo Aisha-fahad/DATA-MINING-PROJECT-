@@ -3,10 +3,7 @@ Project Description:
 Our project is designed as a classification task, with the primary objective of predicting loan approval outcomes. Using applicant-related attributes such as income, credit history, requested loan amount, marital status, and employment details, our model aims to determine whether a loan application should be classified as Approved or Rejected.
 
 Objectives:
-Classification Task: Our goal is to develop a predictive model that categorizes loan applications into either “Approved” or “Not Approved.”
-Accuracy Enhancement: We aim to increase the reliability of our predictions to minimize the risk of misclassifying applications in loan approval decisions.
-Practical Application: We want our project to support financial institutions by streamlining the loan approval process, reducing manual workload, and ensuring consistent evaluation standards.
-Feature Analysis: We will identify and analyze the most significant factors that influence loan approval, providing valuable insights into how applicants are assessed.
+Our main objectives in this project are to build a classification model that can predict whether a loan application should be approved or not approved. We aim to improve the accuracy of the predictions so that the chances of misclassification are reduced. Through this work, we want to support financial institutions by making the loan approval process faster, less dependent on manual work, and more consistent. In addition, we will analyze the key features that have the greatest impact on loan approval, giving useful insights into how applicants are assessed.
 
 Project Motivation:
 The motivation for our project comes from the critical impact that loan approval decisions have on both financial institutions and individuals. On one hand, banks and lenders must carefully assess applications to minimize financial risk; on the other, applicants rely on fair, transparent, and timely decisions in order to gain access to needed financial support.
